@@ -31,7 +31,7 @@
     "node-excel-export": "^1.4.4",
     "p-iteration": "^1.1.8",
     "passport": "^0.4.0",
-    "passport-jwt": "^4.0.0",
+    "passport-jwt": "^4.0.1",
     "pdfkit": "^0.10.0",
     "qrcode": "^1.4.1",
     "sms_ru": "0.0.1",
